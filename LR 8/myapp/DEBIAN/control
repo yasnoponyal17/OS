@@ -1,0 +1,9 @@
+Package: myapp-lab8
+Version: 2.2.8
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sergei Efimov <snootfornoyeah@yandex.ru>
+Depends: python3
+Description: lol xd.
+ Prosto output message. EZ.
